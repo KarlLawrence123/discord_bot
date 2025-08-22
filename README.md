@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Discord Bot - Video Editing Project Management
 
 ## Enhanced Notification System
@@ -83,3 +84,6 @@ Action Required: Review and approve/reject this submission.
 - Use `/search_projects status:submitted` to find specific project types
 - All notifications include direct links to project threads and details
 - The bot automatically tracks project status changes and notifies relevant parties
+=======
+# discord_bot
+>>>>>>> 8e421aa35c20979f20c97abbf8bd9e9e908ed703
